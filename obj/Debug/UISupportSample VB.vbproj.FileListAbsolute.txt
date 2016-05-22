@@ -1,0 +1,27 @@
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\UISupportSample VB.exe
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\UISupportSample VB.pdb
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\UISupportSample VB.xml
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPGuiNET.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPShrNET.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPVerNET.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\DPFPCtlXLib.dll
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UISupportSample VB.vbprojResolveAssemblyReference.cache
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UI_Support.MainForm.resources
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UI_Support.Resources.resources
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UI_Support.VerificationForm.resources
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UISupportSample VB.vbproj.GenerateResource.Cache
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UISupportSample VB.exe
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UISupportSample VB.xml
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UISupportSample VB.pdb
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\obj\Debug\UISupportSample VB.vbproj.ResolveComReference.cache
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\UISupportSample VB.exe.config
+C:\Users\ThinkSeven\Documents\NUTRIMAX\UI Support\bin\Debug\System.Data.SQLite.dll
+C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\bin\Debug\UISupportSample VB.exe.config
+C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\obj\Debug\UISupportSample VB.vbproj.ResolveComReference.cache
+C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\obj\Debug\UISupportSample VB.exe
+C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\obj\Debug\UISupportSample VB.xml
+C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\obj\Debug\UISupportSample VB.pdb
