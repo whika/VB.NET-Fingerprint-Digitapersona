@@ -26,3 +26,8 @@ C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\bin\Debug\Fingerprint
 C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\bin\Debug\Fingerprint.application
 C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\obj\Debug\Fingerprint.exe.manifest
 C:\Users\ThinkSeven\Documents\PROJECT\NUTRIMAX\FINGERPRINT\obj\Debug\Fingerprint.application
+C:\PROJECT\NUTRIMAX\FINGERPRINT\VB.NET-Fingerprint-Digitapersona\bin\Debug\Fingerprint.exe.config
+C:\PROJECT\NUTRIMAX\FINGERPRINT\VB.NET-Fingerprint-Digitapersona\obj\Debug\Fingerprint.vbproj.ResolveComReference.cache
+C:\PROJECT\NUTRIMAX\FINGERPRINT\VB.NET-Fingerprint-Digitapersona\obj\Debug\Fingerprint.exe
+C:\PROJECT\NUTRIMAX\FINGERPRINT\VB.NET-Fingerprint-Digitapersona\obj\Debug\Fingerprint.xml
+C:\PROJECT\NUTRIMAX\FINGERPRINT\VB.NET-Fingerprint-Digitapersona\obj\Debug\Fingerprint.pdb
